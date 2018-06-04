@@ -1,0 +1,11 @@
+{
+  "title": "記事タイトル2",
+  "created_at": 20180605,
+  "bodyContent": "## 見出し\n\n本文2\n\n```html\n<html>\n  <body>\n    <div>hello world!!</div>\n  </body>\n</html>\n```",
+  "bodyHtml": "<h2>見出し</h2>\n<p>本文2</p>\n<pre><code class=\"hljs\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">html</span>&gt;</span>\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">body</span>&gt;</span>\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">div</span>&gt;</span>hello world!!<span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">div</span>&gt;</span>\n  <span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">body</span>&gt;</span>\n<span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">html</span>&gt;</span></code></pre>",
+  "dir": "posts/json",
+  "base": "2018-06-05-new.json",
+  "ext": ".json",
+  "sourceBase": "2018-06-05-new.md",
+  "sourceExt": ".md"
+}

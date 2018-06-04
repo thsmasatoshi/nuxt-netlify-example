@@ -1,0 +1,26 @@
+{
+  "fileMap": {
+    "content/posts/json/2018-06-04-test.json": {
+      "title": "記事タイトル",
+      "created_at": 20180604,
+      "dir": "content/posts/json",
+      "base": "2018-06-04-test.json",
+      "ext": ".json",
+      "sourceBase": "2018-06-04-test.md",
+      "sourceExt": ".md"
+    },
+    "content/posts/json/2018-06-05-new.json": {
+      "title": "記事タイトル2",
+      "created_at": 20180605,
+      "dir": "content/posts/json",
+      "base": "2018-06-05-new.json",
+      "ext": ".json",
+      "sourceBase": "2018-06-05-new.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "contents/2018-06-04-test.md",
+    "contents/2018-06-05-new.md"
+  ]
+}
